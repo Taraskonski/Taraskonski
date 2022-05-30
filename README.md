@@ -3,6 +3,9 @@
 -------------------------------------------------------------------------------
 - 🔭 I’m currently working on Atos Bulgaria Competency Center.
 - 🌱 I’m currently learning Java
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taraskonski)](https://github.com/anuraghazra/github-readme-stats)
+
 - 📫 How to reach me: vladimir.lazarov@outlook.com
 -------------------------------------------------------------------------------
 GitHub stats
