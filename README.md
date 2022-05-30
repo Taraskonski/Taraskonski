@@ -7,6 +7,6 @@
 -------------------------------------------------------------------------------
 GitHub stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taraskonski)](https://github.com/Taraskonski/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taraskonski&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Taraskonski)](https://github.com/Taraskonski/github-profile-trophy)
