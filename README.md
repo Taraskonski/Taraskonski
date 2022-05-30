@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on Atos Bulgaria Competency Center.
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: vladimir.lazarov@outlook.com
-- ⚡ Fun fact: I'm trying to play the guitar, but my big hobby is photography.
 -------------------------------------------------------------------------------
 GitHub stats
 
